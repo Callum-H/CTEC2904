@@ -1,2 +1,2 @@
 # CTEC2904
-Actual Student WOrk
+Actual Student Work
